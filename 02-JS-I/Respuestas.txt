@@ -1,0 +1,27 @@
+Variables:
+una variable es la forma de almacenar un valor para utilizarla luego.
+Para crear una variable podemos usar la palabra "var" seguida del nombre que deseamos asignar a dicha variable. Seguido a esto se le puede asignar un valor
+usando el signo "=".
+Ademas de la palabra "var", existe "let" y "contant" para declarar una variable.
+
+Strings:
+un string es texto, definido siempre entre comillas simples o dobles.
+ejemplo:
+var txt = "esto es un string."
+
+
+Funciones (argumentos, `return`):
+una funcion es un objeto en donde ejecutamos codigo. Una forma de construir una funcion es la siguiente:
+function miFuncion(argumento){}
+con la palabra function indicamos que se inicia una funcion, seguido por el nombre que deseamos. Luego parentesis, y dentro de estos, se puede agregar uno o varios 
+argumentos, seprados con comas. El uso de los argumentos no son necesarios para la funcion. Finalmente abrimos y cerramos llaves, dentro de ellas es donde se ejecutara el
+codigo deseado.
+Cuando utilizamos "return", lo que queremos hacer es detener la funcion y que nos devuelva algun valor que posteriormente usaremos.
+
+Declaraciones `if`
+al declarar "if", lo que queremos es que la condicion dada sea "true" para que se ejecute el codigo siguiente. En caso de ser falso, no ejecuta esas lineas de codigo y 
+continua ejecutandose las demas lineas de codigo
+
+
+Valores booleanos (`true`, `false`)
+los valores booleanos, son valores que tienen dos opciones: "true"(verdadero) o "false"(falso)
