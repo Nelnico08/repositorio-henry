@@ -1,0 +1,3 @@
+* Arrays:
+Un array sirve para almacenar mas de una valor. Para construir un array, solo hay que declarar una variable y establecerla entre corchetes "[]". Puede contener tantos
+elementos como sean necesarios y estos deben estar separados por una coma.
