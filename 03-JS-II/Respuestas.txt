@@ -1,0 +1,14 @@
+* `for`
+for es una expresion de bucle, que evalua expresiones una y otra vez hasta devolver lo que se esta buscando o se detiene despues de un tiempo.
+Para declarar un bucle for, iniciamos con la palabra "for" seguido de parentesis y luego llaves. Dentro del parentesis se debe iniciar la variable con la que vamos a
+trabajar en el bucle, luego se debe usar una condicion, si esta es true el bucle continua y si es false el bucle se detiene. Por ultimo debemos incrementar la variable
+iniciada en el bucle for.
+
+* `&&`, `||`, `!`
+El operador && significa "and"("y"). Es un operador que indica que dos o mas condiciones deben ser true. En el caso de que la primer condicion sea false, las siguientes
+condiciones no seran evaluadas, ya que todas deben ser true.
+
+EL operador || significa "or"("o"). Este operador requiere que al menos una condicion sea true para continuar. Si la primer condicion es true, las siguietes condiciones no
+seran evaluadas, ya que el operador necesito una condicion verdadera.
+
+El operador "!" significa "not"("no"). Este operador sirve para devolver el booleano contrario al que se espera.
