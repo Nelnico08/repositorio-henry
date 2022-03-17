@@ -1,0 +1,20 @@
+* Objetos
+es un contenedor de datos, como los arrays, pero se diferencian en que los arrays pueden contener muchos datos relacionados entre si, mientras que los objetos tienen
+muchos informacion sobre una sola cosa. Para instanciar un objeto se usan llaves {}.
+
+* Propiedades
+los objetos usan pares clave:valor (key:value). La clave/key es el identificador y valor/value es el valor que queremos asignar a la clave. La clave debe ser unica dentro
+del objeto, mientras que los valores se pueden repetir para diferentes claves.
+
+* Métodos
+En los objetos, los valores pueden ser funciones. las fuciones dentro de un objeto son llamadas metodos.
+
+* Bucle `for…in`
+Si se quiere usar un bucle for en un objeto, no funcionaria, ya que los objetos no tienen indices para recorrerlos, como lo tienen los arrays. Para ello se usa el bucle 
+"for..in". Para iniciar este bucle, comezamos con la palara for seguido de parentesis y luego llaves. dentro de los parentesis, declaramos una variable, continuamos con
+la palabra "in" seguido del nombre del objetos que se quiere recorrer.
+
+* Notación de puntos vs notación de corchetes
+Para la notacion de punto, usamos el nombre del objetos, seguido de un punto y el nombre de la clave (objeto.clave).
+Para la notacion de corchete, usamos el nombre del objeto seguido de corchetes. Dentro de los corchetes se debe ingresar el nombre de la clave en forma de string o numero,
+o una variable asignada a un string o numero. (objeto["clave"])
